@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795203829990",
+    "project_id": "carrenting-f249c",
+    "storage_bucket": "carrenting-f249c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795203829990:android:4f625a6ffcae5f219bfb27",
+        "android_client_info": {
+          "package_name": "com.example.car_renting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795203829990-gint5e6n5g8s4pcqliudm9h7oqed9c1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtFV5QPu3cEJ4MCs0yCNym4UZUpsMfKh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795203829990-gint5e6n5g8s4pcqliudm9h7oqed9c1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
